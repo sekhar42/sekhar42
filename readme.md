@@ -43,4 +43,3 @@
 - 📧 Email: [sumanfly06@gmail.com](mailto:sumanfly06@gmail.com)  
 - 🌐 Portfolio: [suman-s-spark.vercel.app](https://suman-s-spark.vercel.app/)  
 - 💼 LinkedIn: [linkedin.com/in/sumanshekhar42](https://www.linkedin.com/in/sumanshekhar42/)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
